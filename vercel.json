@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/sih.js": {
+      "maxDuration": 10
+    }
+  }
+}
